@@ -1,0 +1,52 @@
+body
+{
+text-align: center;
+background-color: #011627;
+color: #fdfffc;
+border: 43px solid #bfc42e;
+margin: 0px;
+}
+
+h1
+{
+color: #ff1c91;
+}
+
+h2
+{
+color: #2eb5c4;
+}
+
+p
+{
+text-align: justify;
+padding-left: 5%;
+padding-right: 5%;
+}
+strike
+{
+background-color: rgb(217, 255, 0);
+color: rgb(255, 0, 0);
+}
+
+input
+{
+height: 35px;
+width: 285px;
+border:2px solid #2e97c4;
+border-radius: 25px;
+font-size: 18px;
+padding-left: 6%;
+}
+
+button
+{
+height: 45px;
+width: 325px;
+background-color: #ff9f1c;
+font-size: 25px;
+border:2px solid #5b2ec4;
+border-radius: 25px;
+margin-bottom: 45px;
+}
+
